@@ -1,0 +1,237 @@
+Baseline
+
+param_file_path 11_1 = "Parameter_Files/Parameters.Par0011.bspline1_s.txt"
+
+Directory: copd1
+Mean TRE: 8.229317027511337
+Std TRE: 5.588845985147091
+Directory: copd2
+Mean TRE: 14.385835106271504
+Std TRE: 6.895544155313185
+Directory: copd3
+Mean TRE: 5.016319842154812
+Std TRE: 3.145351901835965
+Directory: copd4
+Mean TRE: 8.61463346309821
+Std TRE: 4.165699403430384
+
+Overall Mean TRE: 9.061526359758966
+Overall Std TRE: 5.448360861931906
+----------------------------------------------------------------------------------------------------------------------------------
+param_file_path_affine = 'Parameter_Files/Parameters.Par0011.affine.txt'
+param_file_path = "Parameter_Files/Parameters.Par0011.bspline1_s.txt"
+
+Directory: copd1
+Mean TRE: 8.11096513828353
+Std TRE: 5.5697786496343245
+Directory: copd2
+Mean TRE: 14.466816747457909
+Std TRE: 7.070247044430497
+Directory: copd3
+Mean TRE: 4.527093003794221
+Std TRE: 2.9259920762592815
+Directory: copd4
+Mean TRE: 7.4394839250088065
+Std TRE: 3.720076053609129
+
+Overall Mean TRE: 8.636589703636117
+Overall Std TRE: 4.821523955983808
+----------------------------------------------------------------------------------------------------------------------------------
+param_file_path 7_Coarse = "Parameter_Files/Parameters.MI.Coarse.Bspline_tuned.txt"
+
+Directory: copd1
+Mean TRE: 8.715122900743133
+Std TRE: 4.738472471860541
+Directory: copd2
+Mean TRE: 13.106513995555227
+Std TRE: 6.257828942603622
+Directory: copd3
+Mean TRE: 4.7995671986996475
+Std TRE: 2.922568276876589
+Directory: copd4
+Mean TRE: 9.77423374014999
+Std TRE: 3.976047130192589
+
+Overall Mean TRE: 9.098859458786999
+Overall Std TRE: 4.973729205883835
+----------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------
+Baseline+Preprocessing
+
+param_file_path 7_Coarse = "Parameter_Files/Parameters.MI.Coarse.Bspline_tuned.txt"
+
+Directory: copd1
+Mean TRE: 8.689238000954047
+Std TRE: 5.576451869907357
+Directory: copd2
+Mean TRE: 11.689163688840148
+Std TRE: 6.241045636073907
+Directory: copd3
+Mean TRE: 4.441630821760712
+Std TRE: 2.746571034505315
+Directory: copd4
+Mean TRE: 7.80936316365316
+Std TRE: 3.5171272420750466
+
+Overall Mean TRE: 8.157356918552016
+Overall Std TRE: 4.520798445640907
+
+----------------------------------------------------------------------------------------------------------------------------------
+param_file_path 11_1 = "Parameter_Files/Parameters.Par0011.bspline1_s.txt"
+
+Directory: copd1
+Mean TRE: 7.519202991158574
+Std TRE: 5.968633176861099
+Directory: copd2
+Mean TRE: 8.65049690919319
+Std TRE: 6.538296893297348
+Directory: copd3
+Mean TRE: 3.9343002871979706
+Std TRE: 2.819529048974031
+Directory: copd4
+Mean TRE: 6.600792635858079
+Std TRE: 4.33693138420475
+
+Overall Mean TRE: 6.676198705851953
+Overall Std TRE: 4.915347625834307
+----------------------------------------------------------------------------------------------------------------------------------
+param_file_path_affine = 'Parameter_Files/Parameters.Par0011.affine.txt'
+param_file_path = "Parameter_Files/Parameters.Par0011.bspline1_s.txt"
+
+Directory: copd1
+Mean TRE: 7.328055724719013
+Std TRE: 5.687916284644145
+Directory: copd2
+Mean TRE: 8.27023722104657
+Std TRE: 6.386332081430051
+Directory: copd3
+Mean TRE: 3.7221809583428254
+Std TRE: 2.6361364210036444
+Directory: copd4
+Mean TRE: 5.433269801205569
+Std TRE: 3.759613282425686
+
+Overall Mean TRE: 6.688435926828994
+Overall Std TRE: 4.617499017875382
+
+----------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------
+Segmented Baseline
+
+param_file_path_affine = 'Parameter_Files/Parameters.Par0011.affine.txt'
+param_file_path = "Parameter_Files/Parameters.Par0011.bspline1_s.txt"
+
+Directory: copd1
+Mean TRE: 5.387265242987344
+Std TRE: 4.859064773281134
+Directory: copd2
+Mean TRE: 4.476234031716157
+Std TRE: 4.780303062977809
+Directory: copd3
+Mean TRE: 1.5877370238795985
+Std TRE: 1.059062499313614
+Directory: copd4
+Mean TRE: 5.675347994993928
+Std TRE: 4.912242599327156
+
+Overall Mean TRE: 4.281646573894257
+Overall Std TRE: 3.902668733724928
+
+----------------------------------------------------------------------------------------------------------------------------------
+param_file_path = "Parameter_Files/Parameters.Par0011.bspline1_s.txt"
+
+Directory: copd1
+Mean TRE: 6.378733648015575
+Std TRE: 6.456808813422568
+Directory: copd2
+Mean TRE: 4.718968213291351
+Std TRE: 4.883968499977726
+Directory: copd3
+Mean TRE: 1.6597750480236622
+Std TRE: 1.1337931928272538
+Directory: copd4
+Mean TRE: 8.300968421028356
+Std TRE: 6.736453466981584
+
+Overall Mean TRE: 5.764611332089236
+Overall Std TRE: 4.802255993302283
+
+----------------------------------------------------------------------------------------------------------------------------------
+param_file_path = "Parameter_Files/Parameters.MI.Coarse.Bspline_tuned.txt"
+
+Directory: copd1
+Mean TRE: 6.941796444539765
+Std TRE: 3.9172377106549483
+Directory: copd2
+Mean TRE: 9.085973790436263
+Std TRE: 5.502870617314777
+Directory: copd3
+Mean TRE: 2.398615148368382
+Std TRE: 1.3011391506342815
+Directory: copd4
+Mean TRE: 6.898845222126861
+Std TRE: 2.8953409341959064
+
+Overall Mean TRE: 6.831307651367318
+Overall Std TRE: 3.904147103199978
+
+----------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------
+Segmented Baseline+Preprocessing
+
+param_file_path_affine = 'Parameter_Files/Parameters.Par0011.affine.txt'
+param_file_path = "Parameter_Files/Parameters.Par0011.bspline1_s.txt"
+
+Directory: copd1
+Mean TRE: 5.125109854577563
+Std TRE: 4.862397255220803
+Directory: copd2
+Mean TRE: 4.311208039173612
+Std TRE: 4.655188687193956
+Directory: copd3
+Mean TRE: 1.5115042665734786
+Std TRE: 1.0216813143277719
+Directory: copd4
+Mean TRE: 10.276665012400702
+Std TRE: 8.272903467077688
+
+Overall Mean TRE: 5.306621793181839
+Overall Std TRE: 4.703042180955055
+
+----------------------------------------------------------------------------------------------------------------------------------
+param_file_path = "Parameter_Files/Parameters.Par0011.bspline1_s.txt"
+
+Directory: copd1
+Mean TRE: 5.604519042119541
+Std TRE: 5.533096748724779
+Directory: copd2
+Mean TRE: 4.408094620539605
+Std TRE: 4.940233368531978
+Directory: copd3
+Mean TRE: 1.5126388688750725
+Std TRE: 1.040064359245044
+Directory: copd4
+Mean TRE: 12.028815809232215
+Std TRE: 9.445444499789225
+
+Overall Mean TRE: 5.888017085691608
+Overall Std TRE: 5.239709244572257
+
+----------------------------------------------------------------------------------------------------------------------------------
+param_file_path = "Parameter_Files/Parameters.MI.Coarse.Bspline_tuned.txt"
+
+Directory: copd1
+Mean TRE: 5.559570421778421
+Std TRE: 3.6057205538174735
+Directory: copd2
+Mean TRE: 7.242867161303368
+Std TRE: 4.820862924784642
+Directory: copd3
+Mean TRE: 2.163864889729962
+Std TRE: 1.1730450754623325
+Directory: copd4
+Mean TRE: 6.610972824589018
+Std TRE: 3.691861867120534
+
+Overall Mean TRE: 5.894818324350692
+Overall Std TRE: 3.322372105296246
