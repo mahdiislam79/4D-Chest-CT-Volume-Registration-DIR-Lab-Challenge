@@ -76,10 +76,10 @@ The project uses the **COPDgene dataset**, provided by the National Heart, Lung,
 ## Visualizations
 
 - TRE Box Plot:
-![TRE Box Plot](./assets/tre_boxplot.png)
+![TRE Box Plot](Images/boxplot.jpeg)
 
 - Registration Comparison:
-![Registration Comparison](./assets/registration_comparison.png)
+![Registration Comparison](Images/comparison_a.jpg)
 
 ---
 
