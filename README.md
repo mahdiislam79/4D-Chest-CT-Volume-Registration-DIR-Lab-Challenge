@@ -32,7 +32,7 @@ The project uses the **COPDgene dataset**, provided by the National Heart, Lung,
 - Image dimensions: 512 × 512 × varying slices.
 
 ### Example Visualization:
-![Inhale vs Exhale CT Volumes](./assets/dataset_example.png)
+![Inhale vs Exhale CT Volumes](Images/Dataset.png)
 
 ---
 
